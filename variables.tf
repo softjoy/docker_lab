@@ -1,0 +1,2 @@
+variable "allcidr" {}
+variable "redhat" {}
